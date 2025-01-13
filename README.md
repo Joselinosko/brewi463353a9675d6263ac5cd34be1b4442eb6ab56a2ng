@@ -1,6 +1,6 @@
 # Seasick Brewing
 
-To check spelling:
+To check spelling:463353a9675d6263ac5cd34be1b4442eb6ab56a2
 ```
 hunspell -p brewing.en_US Seasick-Brewing.md
 ```
